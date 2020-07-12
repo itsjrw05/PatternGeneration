@@ -1,0 +1,10 @@
+F:\Maths\PatternGeneration\PatternGeneration\bin\Debug\PatternGeneration.exe.config
+F:\Maths\PatternGeneration\PatternGeneration\bin\Debug\PatternGeneration.exe
+F:\Maths\PatternGeneration\PatternGeneration\bin\Debug\PatternGeneration.pdb
+F:\Maths\PatternGeneration\PatternGeneration\obj\Debug\PatternGeneration.csprojAssemblyReference.cache
+F:\Maths\PatternGeneration\PatternGeneration\obj\Debug\PatternGeneration.Form1.resources
+F:\Maths\PatternGeneration\PatternGeneration\obj\Debug\PatternGeneration.Properties.Resources.resources
+F:\Maths\PatternGeneration\PatternGeneration\obj\Debug\PatternGeneration.csproj.GenerateResource.cache
+F:\Maths\PatternGeneration\PatternGeneration\obj\Debug\PatternGeneration.csproj.CoreCompileInputs.cache
+F:\Maths\PatternGeneration\PatternGeneration\obj\Debug\PatternGeneration.exe
+F:\Maths\PatternGeneration\PatternGeneration\obj\Debug\PatternGeneration.pdb
